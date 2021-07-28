@@ -1,2 +1,2 @@
 # rest
-rest repo
+rest repository for demonstration
